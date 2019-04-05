@@ -1,0 +1,17 @@
+{
+  "name": "location-history-parse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Kotlaja",
+  "license": "ISC",
+  "dependencies": {
+    "big-json": "^2.0.0",
+    "geolib": "^2.0.24",
+    "minimist": "^1.2.0",
+    "stream-json": "^0.6.1"
+  }
+}
